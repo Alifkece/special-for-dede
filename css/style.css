@@ -360,7 +360,7 @@ html, body {
 
 .section-1 .btn-next {
     position: absolute;
-    bottom: 7%;
+    bottom: 4rem;
     left: 50%;
     transform: translateX(-50%);
     animation: fadeInBtn 1.5s 3.5s ease forwards;
